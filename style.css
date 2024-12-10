@@ -36,6 +36,11 @@ h2{
 	text-align:center;
 }
 
+h5{
+	font-family:impact;
+	color:white;
+}
+
 h4{
 	font-family:heiti sc;
 	color:white;
@@ -70,7 +75,7 @@ img{
 }
 
 .contact{
-	color: white;
+	color:white;
 	text-align: center;
 }
 
@@ -80,4 +85,9 @@ img{
 	font-size:20px;
 	font-family:impact;
 
+}
+
+p{
+	font-family:heiti sc;
+	color: white;
 }
